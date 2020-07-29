@@ -13,9 +13,9 @@ You can check it from here: [JavaScript Dictionary](https://ahmed-alawi-ba.githu
 This project uses **Wordnik API**, which is the world's biggest online English dictionary, by number of words.
 <br/>
 You can go to [Wordnik Developer Website](https://developer.wordnik.com/) to request for an API key. Or if you can use mine if you like, but please consider giving them some support.
-<br/><br/><br/>
+<br/><br/>
 
-## Wordnik
+### Wordnik
 
 Wordnik is a nonprofit organization, and its mission is to find and share as many words of English as possible with as many people as possible.
 
