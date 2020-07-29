@@ -1,6 +1,6 @@
 ## Javascript Dictionary Using Wordnik API
 
-<br/><br/>
+<br/>
 Javascript Dictionary is a simple and easy to use web application dictionary.
 <br/><br/>
 This project is built with HTML, CSS and Javascript. The app is built using a modern Javascript, and with an OOP approach (Object-Oriented-Programming).
