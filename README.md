@@ -3,10 +3,10 @@
 <br/>
 Javascript Dictionary is a simple and easy to use web application dictionary.
 <br/><br/>
-This project is built with HTML, CSS and Javascript. The app is built using a modern Javascript, and with an OOP approach (Object-Oriented-Programming).
+This project is built with HTML5, CSS3 and Javascript. The app is built using a modern Javascript, and with an OOP approach (Object-Oriented Programming).
 <br/>
 
-You can check it from here: [JavaScript Dictionary](https://ahmed-alawi-ba.github.io/Javascript-Dictionary/).
+You can run the project from here: [JavaScript Dictionary](https://ahmed-alawi-ba.github.io/Javascript-Dictionary/).
 
 <br/>
 

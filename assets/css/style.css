@@ -142,6 +142,15 @@ p{
 	}
 }
 
+@media(max-width: 370px){
+	.input-wrapper input{
+		width: 150px;
+		height: 30px;
+	}
+	.search-btn{
+		margin: 0;
+	}
+}
 
 
 
