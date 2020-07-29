@@ -17,7 +17,7 @@ Wordnik is a nonprofit organization, and its mission is to find and share as man
 
 Wordnik shows definitions from multiple sources, like: American Heritage, The Century Dictionary, Merriam Webster and so many more.
 
-You can go to their website and check what other great services they provide: &nbsp; [Wordnik Website](https://www.wordnik.com/)
+You can go to their website and check what other great services they provide: [Wordnik](https://www.wordnik.com/)
 
 
 
