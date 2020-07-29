@@ -4,11 +4,11 @@
 Javascript Dictionary is a simple and easy to use web application dictionary.
 <br/><br/>
 This project is built with HTML, CSS and Javascript. The app is built using a modern Javascript, and with an OOP approach (Object-Oriented-Programming).
-<br/><br/>
+<br/>
 
 You can check it from here: [JavaScript Dictionary](https://ahmed-alawi-ba.github.io/Javascript-Dictionary/).
 
-<br/><br/>
+<br/>
 
 This project uses **Wordnik API**, which is the world's biggest online English dictionary, by number of words.
 <br/>
